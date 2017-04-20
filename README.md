@@ -1,3 +1,3 @@
 # Hello-world
 My first repository
-Nothing to say.
+I am noob,and nothing to say
